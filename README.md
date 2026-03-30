@@ -8,8 +8,11 @@ git clone <https://github.com/Leyauzin/PulseSend/>
 cd PulseSend
 
 pip install -r requirements.txt
+```
 
-Lancer l’application directement en Python
+## Lancement
 
+2. **Lancer l’application directement en Python**
+```bash
 python App.py
-
+```
