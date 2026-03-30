@@ -10,5 +10,6 @@ cd PulseSend
 pip install -r requirements.txt
 
 Lancer l’application directement en Python
+
 python App.py
 
